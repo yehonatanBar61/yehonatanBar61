@@ -47,7 +47,7 @@ public class MainClass {
 ###
 
 <div align="left">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="/pictures/EvilTwin.htm"  />
   <p align="right">Description of Picture 2</p>
 </div>
 
