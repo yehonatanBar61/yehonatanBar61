@@ -48,7 +48,7 @@ public class MainClass {
 
 <div align="left">
   <img height="200" src="/pictures/wifi.png"  />
-  <p align="right">Description of Picture 2</p>
+  <p align="right">An attack tool called EvilTwin and a defense tool against the same attack</p>
 </div>
 
 ###
