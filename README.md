@@ -9,7 +9,7 @@ public class MainClass {
     public static void main(String[] args) {
         while (yehonatan.isAlive()) {
             // I'm Yehonatan, a passionate programmer exploring the endless possibilities of code!
-            // Currently alive and thriving in the world of Java.
+            // Currently alive and thriving in the world of Coding.
             
             yehonatan.keepLearning();
             yehonatan.codeWithPassion();
