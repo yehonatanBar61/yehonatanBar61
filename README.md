@@ -2,7 +2,7 @@
 
 <h4 align="left">I am currently a bachelor's student in computer science at Ariel University</h4>
 
-## Code Snippet
+##
 
 ```java
 public class MainClass {
@@ -47,7 +47,7 @@ public class MainClass {
 ###
 
 <div align="left">
-  <img height="200" src="/pictures/EvilTwin.htm"  />
+  <img height="200" src="/pictures/wifi.png"  />
   <p align="right">Description of Picture 2</p>
 </div>
 
