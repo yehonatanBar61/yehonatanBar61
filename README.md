@@ -41,7 +41,7 @@ public class MainClass {
 
 <div align="left">
   <img height="200" src="/pictures/password.png"  />
-  <p align="right">Description of Picture 1</p>
+  <p align="right">A new, safer, more enjoyable way to register and login to websites or apps</p>
 </div>
 
 ###
